@@ -1,5 +1,6 @@
 # Clasificación de defectos en placas de circuitos impresos
-FALTA EL BANNER 800x300
+
+![Image text](https://github.com/IC-03/ClasificacionPCB/blob/main/bannerIA2-pcb.jpg)
 
 **Proyecto de Inteligencia artificial 2024-2**
 
@@ -9,14 +10,14 @@ FALTA EL BANNER 800x300
 
 📊 **Dataset:** https://datasetninja.com/pcb-defect 
 
-**Descripción del dataset:** Imágenes de placas de circuitos impresos que contienen las bounding boxes de los defectos.
+📊 **Descripción del dataset:** Imágenes de placas de circuitos impresos que contienen las bounding boxes de los defectos.
 
 🤖 **Modelos:** DNN, CNN, LeNet, AlexNet, VGG16, ResNet50, GoogleNet, InceptionV3, Inception-ResNet-V2, Xception, DenseNet
 
-⌨️ **Enlace al código:**
+⌨️ **Enlace al código:** https://github.com/IC-03/ClasificacionPCB/blob/main/IA2_Clasificaci%C3%B3n_PCB.ipynb
 
 📹 **Video:**
 
-⌨️ **Repositorio:**
+⌨️ **Repositorio:** https://github.com/IC-03/ClasificacionPCB
 
-📊 **Diapositivas:**
+👨‍🏫 **Diapositivas:**
