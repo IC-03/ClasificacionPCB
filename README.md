@@ -20,4 +20,4 @@
 
 ⌨️ **Repositorio:** https://github.com/IC-03/ClasificacionPCB
 
-👨‍🏫 **Diapositivas:**
+👨‍🏫 **Diapositivas:** https://docs.google.com/presentation/d/1S-V4DiGZiVkOknXJRCrNLJzxsXwLeYitqzVj5p_GpHg/edit?usp=sharing
