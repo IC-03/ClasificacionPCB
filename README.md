@@ -16,8 +16,8 @@
 
 ⌨️ **Enlace al código:** https://github.com/IC-03/ClasificacionPCB/blob/main/IA2_Clasificaci%C3%B3n_PCB.ipynb
 
-📹 **Video:**
+📹 **Video:** https://youtu.be/Mz_tB1xVGAU
 
 ⌨️ **Repositorio:** https://github.com/IC-03/ClasificacionPCB
 
-👨‍🏫 **Diapositivas:** https://docs.google.com/presentation/d/1S-V4DiGZiVkOknXJRCrNLJzxsXwLeYitqzVj5p_GpHg/edit?usp=sharing
+👨‍🏫 **Diapositivas:** https://github.com/IC-03/ClasificacionPCB/blob/main/Diapositivas_EntregaFinal.pdf
